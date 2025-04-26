@@ -1,0 +1,10 @@
+body {
+	background-color: grey;
+	text-align: center;
+}
+
+@media (min-width: 768px) {
+	body {
+		font-size: 150%;
+	}
+}
